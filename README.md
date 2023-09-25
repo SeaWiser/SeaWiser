@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack developer from France</h3>
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd4c2VlYmxzeGszb3o1c3U1NmV6Y3l0dWxzeHJ5dmNsamMwYTBkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seawiser&label=Profile%20views&color=0e75b6&style=flat" alt="seawiser" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seawiser&label=Profile%20views&color=0e75b6&style=flat" alt="seawiser" width="400" /> </p>
 
 - 🔭 I’m currently working on **a full stack application using React and Node.JS**
 
