@@ -1,4 +1,4 @@
-[![MASTERHEAD](https://svgshare.com/i/xuF.svg)](https://ygraillot.com)
+[![MASTERHEAD](https://svgshare.com/i/xun.svg)](https://ygraillot.com)
 
 <h1 align="center">Hi 👋, I'm Yanis</h1>
 <h3 align="center">A passionate Full Stack developer from France</h3>
